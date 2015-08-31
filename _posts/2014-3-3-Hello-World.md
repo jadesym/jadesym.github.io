@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Week 1 - Intro to Python and Javascript 8/30/15
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
