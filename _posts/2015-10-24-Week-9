@@ -1,0 +1,18 @@
+---
+layout: post
+title: Week 9 - Finishing IDB1, SQL, and XML 
+---
+
+This week covered some of the important parts of SQL and XML. We learned about how columns function is SQL databases as well as various structures that XML can be formed. We also looked at how JSON can represent data as well. 
+
+### Lectures
+
+For the SQL based lectures, we went over projections of different columns within a database. Additionally, we covered theta join, which involves specifying which similar columns should be paired together from a database. Lastly, we covered cross join, which results from joining columns which have all of the similar keys. If none of they keys have any elements in column, then the dictionaries are combined as well. In the XML lectures, we covered Document Type Definition and XSD, which XML can adhere to.
+
+### IDB1
+
+We completed the IDB1 project this week, which involved creating a imdb like website. Our team, the Full Stack Alchemists, built a basic implementation of an Anime database. The database included shows, characters, and studios. We built the website in Flask, Nginx, and uWSGI. Nginx and uWSGI were used to deploy the server and Flask was used to serve the pages, handle the routing, and control the static pages that were implemented. Each of our static pages included 3 individual elements in a table that could be sorted by their individual columns. Additionally, we had individual pages per element that contained the appropriate information related to said element.
+
+### Tip of the Week
+
+In addition to Flask itself, I would highly suggest looking at various other web frameworks that are available. Node.js in particular is a great one because it handles things asynchronously. Additionally, Python tornado can be used to handle servers if you are more interested in Python. Either way it is always good to look out for better and more efficient possible development tools out there in order to be up to date with today's technology. This can be helpful especially when applying for jobs that are using other technologies besides the ones normally taught in classes.
