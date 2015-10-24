@@ -7,7 +7,7 @@ This week covered some of the important parts of SQL and XML. We learned about h
 
 ### Lectures
 
-For the SQL based lectures, we went over projections of different columns within a database. Additionally, we covered theta join, which involves specifying which similar columns should be paired together from a database. Lastly, we covered cross join, which results from joining columns which have all of the similar keys. If none of they keys have any elements in column, then the dictionaries are combined as well. In the XML lectures, we covered Document Type Definition and XSD, which XML can adhere to.
+For the SQL based lectures, we went over projections of different columns within a database. Additionally, we covered theta join, which involves specifying which similar columns should be paired together from a database. Lastly, we covered cross join, which results from joining columns which have all of the similar keys. If none of they keys have any elements in column, then the dictionaries are combined as well. In the XML lectures, we covered Document Type Definition and XSD, both of which XML can adhere to.
 
 ### IDB1
 
